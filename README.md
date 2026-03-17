@@ -13,7 +13,7 @@ In no way this is financial advise. This is meant for learning only. All trades 
 ## Subtopics
 
 - [AMPX](AMPX/README.md): Shows trading strategy for AMPX.
-- [NVDA](NVSA/README.md): Shows trading strategy for NVDA.
+- [NVDA](NVDA/README.md): Shows trading strategy for NVDA.
 
 ---
 
