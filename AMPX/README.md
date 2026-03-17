@@ -1,7 +1,8 @@
 
 # AMPX 
 
-- The following are fictional trades and trading analysis performed by ML/AI
+- The following are trading analysis performed by ML/AI.
+- Fed json file of historical trades for the past 3 years.
 
 
 # 1. Your Historical Strategy Pattern (What You Did Right)
