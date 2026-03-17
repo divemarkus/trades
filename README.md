@@ -11,7 +11,7 @@
 ## Warning
 
 - Not financial advise.
-- This is for learning purposes only.
+- This is for educational purposes only.
 - Experimentation with using local or hosted AI models as a trading partner.
 
 ---

@@ -7,7 +7,8 @@
 
 ---
 
-# 1. Your Historical Strategy Pattern (What You Did Right)
+
+# 1. Your Historical Strategy Pattern 
 
 Your past trades show **three consistent behaviors**:
 
