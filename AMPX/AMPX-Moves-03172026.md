@@ -3,7 +3,9 @@
 
 - Selling day from AMPX heads 
 - What this means for retail traders
-- Attache image
+- Attached image
+
+- <img width="468" height="903" alt="AMPX-Trend-Analysis-Small" src="https://github.com/user-attachments/assets/47b4eebc-4091-4981-af18-44d5ddbd288b" />
 
 ---
 
