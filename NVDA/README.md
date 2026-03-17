@@ -1,7 +1,8 @@
 
 # NVDA
-
-- NVIDIA trades. For learning purposes only.
+- For learning purposes only. Not financial advise!
+- Ticker API: https://www.financialdatasets.ai/
+- Source: https://github.com/virattt/ai-hedge-fund
 
 ## Selected analysts: 
 ```
