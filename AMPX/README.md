@@ -4,6 +4,7 @@
 - The following are trading analysis performed by ML/AI.
 - Fed [json](AMPX-March2022-March2026-Transactions.json) file of historical trades for the past 3 years.
 - [More trade analysis](AMPX-Strat-03172026.md).
+- [Selling day for AMPX Leadership](AMPX-Moves-03172026.md).
 
 ---
 
