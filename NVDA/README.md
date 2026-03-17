@@ -3,9 +3,17 @@
 
 - NVIDIA trades. For learning purposes only.
 
-Selected analysts: Aswath Damodaran, Ben Graham, Bill Ackman, Cathie Wood, Charlie Munger, Michael Burry, Mohnish Pabrai, Peter Lynch, Phil Fisher, Rakesh Jhunjhunwala, Stanley Druckenmiller, Warren Buffett
+## Selected analysts: 
+```
+Aswath Damodaran, Ben Graham, Bill Ackman, Cathie Wood, Charlie Munger, Michael Burry, Mohnish Pabrai, Peter Lynch, Phil Fisher, Rakesh Jhunjhunwala, Stanley Druckenmiller, Warren Buffett
+```
 
-Using Ollama for local LLM inference.
+---
+
+## Models
+- Using Ollama for local LLM inference.
+
+```
 ? Select your Ollama model: Llama 3.1 (8B)
 Using Ollama endpoint at http://ollama:11434
 Model llama3.1:latest is available in the Docker Ollama container.
@@ -154,4 +162,8 @@ PORTFOLIO SUMMARY:
 +==========+==========+============+==============+===========+===========+===========+
 | NVDA     |   HOLD   |          0 |       100.0% |     7     |     3     |     2     |
 +----------+----------+------------+--------------+-----------+-----------+-----------+
+```
+
+---
+
 
