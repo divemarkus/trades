@@ -2,8 +2,10 @@
 # AMPX 
 
 - The following are trading analysis performed by ML/AI.
-- Fed json file of historical trades for the past 3 years.
+- Fed [json](AMPX-March2022-March2026-Transactions.json) file of historical trades for the past 3 years.
+- Json file attached as reference.
 
+---
 
 # 1. Your Historical Strategy Pattern (What You Did Right)
 
