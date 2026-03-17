@@ -226,4 +226,4 @@ Fix that → your performance compounds hard.
 * ✅ Wait for structured pullbacks
 * ✅ Scale, don’t go all-in
 
----`
+---
