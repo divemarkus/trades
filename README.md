@@ -1,23 +1,26 @@
 
-# 🧠 Using Machine Learning to guide my trades, 2026  
+
+# 🧠 ML/AI as Trading Guide, 2026  
+
 *Optimized for AMD & NVIDIA GPUs | Local LLMs | Privacy-First Workflows*
 
-> **💡 Tip**: This guide is designed for *on-premise, offline-capable AI workflows* — Follow at your own risk.
+> **💡 Tip**: This guide is designed for *educational purposes only* — Not financial advice.
 
 ---
 
 ## Warning
 
+- Not financial advise.
 - This is for learning purposes only.
-- Advise provided are no different from hosted ML/AI models.
-- Follow on your own risk.
+- Experimentation with using local or hosted AI models as a trading partner.
 
 ---
 
 ## Subtopics
 
-- [AMPX](AMPX/README.md): Shows trading strategy for AMPX.
-- [NVDA](NVDA/README.md): Shows trading strategy for NVDA.
+- [AMPX](AMPX/README.md): Shows trading strategy for Amprius.
+- [NVDA](NVDA/README.md): Shows trading strategy for Nvidia.
+- [SNDK](SNDK/README.md): Shows trading strategy for Sandisk.
 
 ---
 
