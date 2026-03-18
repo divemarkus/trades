@@ -1,7 +1,8 @@
 
 # NVDA - Nvidia
 
-- [NVDA Strategy](NVDA-Strat-03172026.md)
+- [NVDA Strategy I](NVDA-Strat-03172026.md)
+- [NVDA Strategy II](NVDA-Strat-03182026.md)
 - [AI Hedge Fund project](NVDA-ai-hedge-fund.md)
 
 ---

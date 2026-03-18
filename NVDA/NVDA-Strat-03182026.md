@@ -14,8 +14,6 @@ I’ll build this like a **volatility playbook**, not a valuation view.
 
 # 📊 NVDA Probability-Based Trading Map
 
-NVDA
-
 ---
 
 # 1) Volatility Framework (What We Anchor To)
