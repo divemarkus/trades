@@ -3,7 +3,7 @@
 # 🧠 ML/AI as Trading Guide, 2026  
 
 
-> **💡 Tip**: This guide is designed for *educational purposes only* — Not financial advice.
+> **💡 Tip**: This guide is designed for *educational purposes only* — Not financial advice. Use at your own risk!
 
 ---
 
