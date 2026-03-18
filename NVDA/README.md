@@ -1,5 +1,8 @@
 
-# GPT-5.3 summarizes NVDA
+# NVDA - Nvidia
+
+- (NVDA Strategy)[NVDA-Strat-03172026.md]
+- (AI Hedge Fund project)[NVDA-ai-hedge-fund.md]
 
 ---
 
