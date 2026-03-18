@@ -2,7 +2,8 @@
 # SNDK 
 
 - The following are trading analysis performed by ML/AI.
-- Fed json file of historical trades for the past three months.
+- Fed json file of January 2026 trade.
+- [SanDisk strategy 03182026](SNDK-Strat-03182026.md)
 
 ---
 
