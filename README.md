@@ -32,8 +32,8 @@
 
 ## Cryptocurrency
 
-- [BTC](BTC/README.md): Coming soon.
-- [SOL](SOL/README.md): Coming soon.
+- [BTC](BTC/README.md): Shows trading strategy for Bitcoin.
+- [SOL](SOL/README.md): Shows trading strategy for Solana.
 
 ---
 
