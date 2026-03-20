@@ -25,8 +25,8 @@
 
 ## Index / ETF
 
-- [VGT](VGT/README.md): Coming soon.
-- [VTI](VTI/README.md): Coming soon.
+- [VGT](VGT/README.md): Shows trading strategy for VGT.
+- [VTI](VTI/README.md): Shows trading strategy for VTI.
 
 ---
 
