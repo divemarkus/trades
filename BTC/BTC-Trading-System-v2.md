@@ -323,3 +323,6 @@ With:
 * 🧠 Emotion-free execution
 
 ---
+<img width="865" height="559" alt="btc-trading-system-sm" src="https://github.com/user-attachments/assets/119c371c-8fe0-4f6f-91a4-e071bae0aa9d" />
+
+-
