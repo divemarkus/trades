@@ -1,4 +1,10 @@
 
+# Topics
+- [BTC Strategy Moving Forward](BTC-Strat-03192026.md)
+- [BTC Trading System - Google Sheet](BTC-Trading-System.md)
+
+---
+
 # 1) What Historically Worked (Your Model)
 
 Your framework is basically:
