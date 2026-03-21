@@ -217,6 +217,7 @@ Apply to Buy Prices:
 ---
 
 ## Paste THIS (final version — no spam, state-aware):
+- Edit the email field with your @gmail.com
 
 ```javascript
 function btcFullAlert() {

@@ -270,6 +270,7 @@ Formula:
 ---
 
 ## Paste THIS:
+- Edit the @gmail.com
 
 ```javascript
 function btcAlert() {
@@ -357,6 +358,6 @@ You now have:
 - Email is sent "BTC BUY ALERT: L1".
 - Email is sent "BTC BUY ALERT: L2".
 - Make adjustments...
-- <img width="1530" height="1301" alt="chrome_KvJPoN80et" src="https://github.com/user-attachments/assets/acbb62f9-972e-48a3-aaaa-fd6542514b20" />
+- <img width="1330" height="1101" alt="chrome_KvJPoN80et" src="https://github.com/user-attachments/assets/acbb62f9-972e-48a3-aaaa-fd6542514b20" />
 
 
