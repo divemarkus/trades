@@ -2,8 +2,8 @@
 # BTC Trading System
 - Gmail + Google Sheet.
 - 10 mins to 20 mins setup.
-- There's an updated version of this with sell feature.
-- Use the updated version as most of you don't sell.
+- Use the updated version of [GSheet with sell feature](BTC-Trading-System-v2.md)
+- Use the updated version as most trader's have issues selling.
 
 ---
 
