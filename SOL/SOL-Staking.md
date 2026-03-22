@@ -1,5 +1,7 @@
 
-# SOL Staking
+# Solana Staking
+
+---
 
 ## 1. Current SOL Staking Rates (Reality vs Headline)
 
