@@ -34,6 +34,7 @@
 
 - [BTC](BTC/README.md): Shows trading strategy for Bitcoin.
 - [SOL](SOL/README.md): Shows trading strategy for Solana.
+- [XRP](./XRP/README.md): Shows trading strategy for Ripple.
 
 ---
 
