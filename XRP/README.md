@@ -1,5 +1,6 @@
 
 # XRP (Ripple) 
+- [Crypto Comparison](Crypto-Comparison.md)
 
 ---
 
