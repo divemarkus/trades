@@ -3,6 +3,7 @@
 - [BTC Strategy Moving Forward](BTC-Strat-03192026.md)
 - [BTC Trading System - Google Sheet](BTC-Trading-System.md)
 - [BTC Trading System - Google Sheet with sell feature](BTC-Trading-System-v2.md)
+- [Crypto Comparison](../XRP/Crypto-Comparison.md)
 
 ---
 
