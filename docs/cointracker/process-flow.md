@@ -117,7 +117,7 @@ From Coinbase:
 
 - ❌ Do NOT use mempool INPUT addresses
 - ❌ Do NOT use Coinbase hot wallets
-- ❌ Do NOT guess addresses
+- ❌ Do NOT guess which addresses to use
 
 ---
 
