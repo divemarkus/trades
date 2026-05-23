@@ -7,8 +7,6 @@
 
 ![Image](https://images.openai.com/static-rsc-4/7WinQZqpcp1AhtSQO1uY5hu1XW4dhKEJTtSh_A7_BN6wkxh3heG7K28S1aiw2yC5GABkEqDaeP1u-wklpDDBe5-izVFSwSUr2uWcOhXytujoG67mPTNXf9d44dl4K628YAhMzWeNK4XzYTCaptxwri0O56ZGHMosnye58HWwZ-ZRY2stMZam0LnetDuMMHAp?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/BQJIHoS1xfysk8oYisD38hNIxfQT3zHbFYtU8-uycuV_g0_IyWClQNl51IeHOSJ0-6Y9g9Sda4bKbosEbScl_EroA2bWuyQVRqdNotSUjbRw-8LS-fps-s2Rxev8xi3oyFf5bEDNInk3hPGn61CFtbf43NA08xEQxGT9QoMb4d58H9clM3_kdJE1wRx3eGVz?purpose=fullsize)
-
 ![Image](https://images.openai.com/static-rsc-4/aUcVJ8WJVslE2hVEX3C_jCbxaesN1axIKwR2lvin7EfmPRQ3Swb6fMGstvHSsoU0XG05uXEI_RE14IlBO4AOFdrnnRYBv4rCO1ZzPcHwIgUl2bc7Tvo1ebxf_ZJ98nfREjYw2BFXIWdN8CvBQmlFY9zbSzblvgWYvvQQLa4DYRYQB5LLX2TjaFdrPQcZ_OXY?purpose=fullsize)
 
 Ingenuity used a specialized **lithium-ion battery system** designed for:
