@@ -72,7 +72,7 @@ It was surviving the Martian night.
 
 Mars nighttime temperatures can reach:
 
--80^\circ C \text{ to } -100^\circ C
+*−80∘C to −100∘C*
 
 That is devastating for batteries.
 
@@ -153,7 +153,7 @@ That’s extraordinarily difficult in aerospace engineering.
 
 Ingenuity’s rotor system spun extremely fast because Mars air is so thin:
 
-\text{Rotor speed} \approx 2400\text{–}2900\ \mathrm{RPM}
+*Rotor speed≈2400–2900 RPM*
 
 That’s much faster than most helicopters on Earth.
 
@@ -178,7 +178,7 @@ including future NASA and ESA missions.
 
 ---
 
-# Prompt GPT-5.4 for a match
+# Prompt GPT-5.4...
 
 > Given the battery requirements, can you research if Amprius battery type can fit this situation?
 
@@ -216,7 +216,7 @@ The biggest advantage is energy density.
 
 Modern Amprius cells claim:
 
-450\text{–}500\ \mathrm{Wh/kg}
+*450–500 Wh/kg*
 
 which is dramatically higher than many conventional lithium-ion aerospace cells. ([Amprius Technologies][1])
 
@@ -282,11 +282,11 @@ This is where things get complicated.
 
 Mars nighttime temperatures can fall near:
 
--80^\circ C \text{ to } -100^\circ C
+*−80∘C to −100∘C*
 
 Amprius publicly advertises operation approximately from:
 
--30^\circ C \text{ to } 27^\circ C ([Amprius Technologies][3])
+*−30∘C to 27∘C*
 
 That is impressive for Earth aviation batteries…
 …but Mars is far harsher.
@@ -309,7 +309,7 @@ The reason silicon batteries are difficult is:
 
 Potential swelling can reach:
 
-\approx 300% \text{ expansion potential in silicon structures} ([Vertical Mag][4])
+*≈300% expansion potential in silicon structures*
 
 Amprius uses:
 
@@ -368,7 +368,7 @@ Space qualification is much harder than terrestrial drone use.
 
 ---
 
-# My engineering assessment
+# Engineering assessment
 
 For:
 
