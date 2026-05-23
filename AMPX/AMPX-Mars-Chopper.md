@@ -123,7 +123,7 @@ Despite its tiny battery:
 
 * Ingenuity greatly exceeded expectations
 * Originally planned for only ~5 flights
-* Ultimately flew dozens of times
+* Ultimately flew 72 times
 
 This became one of NASA’s most successful tech demonstrations.
 
