@@ -464,8 +464,8 @@ NASA explicitly mentions forecasting advances in:
 
 * batteries
 * power systems
-* avionics
-  for these aircraft. ([Wikipedia][2])
+* avionics for these aircraft
+* [Ingenuity helicopter](https://en.wikipedia.org/wiki/Ingenuity_%28helicopter%29)
 
 ---
 
@@ -476,7 +476,8 @@ The original Ingenuity used:
 * 6 Sony VTC4 lithium-ion cells
 * ~35–40 Wh total capacity
 * solar charging
-* heavy thermal heating loads ([Reddit][3])
+* heavy thermal heating loads
+* [The Mars Helicopter Ingenuity is powered by six 18650 cells](https://www.reddit.com/r/18650masterrace/comments/mpvsbd/fun_fact_the_mars_helicopter_ingenuity_is_powered)
 
 Its battery system was excellent for a tech demo…
 …but future science helicopters will likely need:
@@ -506,7 +507,7 @@ That means battery mass is brutally important.
 
 Higher energy density batteries directly enable:
 
-\text{Higher energy density} \Rightarrow \text{longer range + larger payloads}
+*Higher energy density⇒longer range + larger payloads*
 
 This is why silicon-anode batteries are interesting.
 
@@ -571,7 +572,8 @@ Recent NASA/JPL testing discussed:
 
 * increasing lift by ~30%
 * carrying heavier instruments
-* enabling larger batteries ([Space][1])
+* enabling larger batteries
+* [Watch NASA's new Mars helicopter rotor break the speed of sound (video)](https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video)
 
 That is a strong signal that:
 
@@ -583,7 +585,8 @@ That is a strong signal that:
 
 Dragonfly — NASA’s future Titan rotorcraft — avoids battery limitations differently:
 
-* it uses a nuclear MMRTG power source instead of relying only on solar batteries. ([Wikipedia][4])
+* it uses a nuclear MMRTG power source instead of relying only on solar batteries. 
+* [Dragonfly Titan space probe](https://en.wikipedia.org/wiki/Dragonfly_%28Titan_space_probe%29)
 
 That tells you NASA recognizes:
 
@@ -591,7 +594,7 @@ That tells you NASA recognizes:
 
 ---
 
-# My engineering assessment
+# Engineering assessment
 
 For a hypothetical:
 
@@ -610,12 +613,3 @@ Amprius-type technology fits the *performance direction* NASA clearly wants:
 * maximum Wh/kg
 * lightweight aviation
 * high discharge capability
-
-
-[1]: https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video "Watch NASA's new Mars helicopter rotor break the speed of sound (video)"
-
-[2]: https://en.wikipedia.org/wiki/Ingenuity_%28helicopter%29 "Ingenuity (helicopter)"
-
-[3]: https://www.reddit.com/r/18650masterrace/comments/mpvsbd/fun_fact_the_mars_helicopter_ingenuity_is_powered "The Mars Helicopter Ingenuity is powered by six 18650 cells"
-
-[4]: https://en.wikipedia.org/wiki/Dragonfly_%28Titan_space_probe%29 "Dragonfly (Titan space probe)"
