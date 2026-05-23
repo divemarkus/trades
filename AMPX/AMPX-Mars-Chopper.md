@@ -435,8 +435,6 @@ NASA engineers are openly discussing:
 
 ![Image](https://images.openai.com/static-rsc-4/n-_tgkLcVZ67x-k_612Zp2G_mSyaOieV4gcRaEEJPgUZtwgIIxLC2TxYO3PeF7JPej3k4j9gl5giGoZib0LSLqaEc43vzG2kGOg3GEp3cLzQO4HMsAKGPk66PAzK-hoWy7RywICPi4y11jlztHR1KAOxHKLAO81vlgzHDUrROzzAsWWx0clUk5K-2Yhcov4a?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/uGzTU-Xg6g0nbC4ICdIMNRdyrGTt1HoSRXbg1eQVQUmD9EYTkIn0LS5kto-O3OHecpHhm_RAl6K0M8bcvXx6oGvd9kxk5AXbDXgwJE0awtBE9psryaOhvLUEgpG3zfgMtlKcYg4L59_e-O5RImEMfEMm3yJRHCq6srfM5g71ejclOVwmI-L0m1x663fAKXc8?purpose=fullsize)
-
 NASA’s post-Ingenuity concepts include:
 
 * Mars Science Helicopter (MSH)
