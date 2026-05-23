@@ -405,5 +405,220 @@ Still, if NASA builds a larger successor to Ingenuity in the 2030s:
 
 ---
 
-### Future (quick Youtube vid)
-- https://youtu.be/TYasUWRkv4E
+# Future
+- [NASA Mars Skyfall - Quick video](https://youtu.be/TYasUWRkv4E)
+
+> “Can powered flight even work on Mars?”
+
+Now that the answer is clearly “yes,” the engineering focus has shifted toward:
+
+* larger payloads
+* longer range
+* more autonomous science missions
+* larger batteries
+* more efficient propulsion
+
+NASA engineers are openly discussing:
+
+* “bigger batteries”
+* advanced power systems
+* higher lift capacity
+  for future Mars rotorcraft. ([Space][1])
+
+---
+
+# What NASA is actively studying now
+
+## 1. Larger Mars helicopters
+
+![Image](https://images.openai.com/static-rsc-4/NAF8Yuix1kfoI7vQiZ7DN7wAw08b2U0ejiyQghzAc8zugngOeW9IDz7xEQu4K9_WEKN0SpNuH5srr8CYtTO8qO5OlSh40BUnhrntzENfET4aqKgFtBS5w9azIlxBX1FF2OYujB2ZP4Onb-wUc0PgicusWKUW-6ZCJ7Avhu3DDl3nCHXnHeraBcyhuMDQ_4Or?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/x82XKTs4sHgub1-N20P3W3c7g2rVhs-QJ83KgGpxMdIMd0n_OnNgjV3x4Pcr8Z1vTnmnhJB_KuSXl_hiGkqerYMpohcmIjggNDxgLE4OQWe70-NPuhzEX7jF6ljDHzXvK6Lc6EHE2dEGgFXgaNtoPET7dO0MwrxxTSvnVwL4ZSk7I9c8XMBAs05k9siMNCQd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uuWkOiS2OxUEOMZokItSbd4x69kRSlbQ364YNK89u0K1MVTFZmO9YsjC3BbXr3y6d0SjS-9mASouPTgN7N3ctHsIWNTZ5oqGmpVvMSnrxNwdS5Pt-gauMFsnQmYpQaEgsidd48p2nZJvTsItvaVHSk7qhr-FlCVFA3AK7MOvR_O6TVzRafjOgdlBDXxM2-OL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JhXOgxp5jey6g2qy94eucFbV0k-IHawvkmU-2LpR1EizqOHYDcVHisuN8n6aeNBUvMsiNhln_64cvJe4bdFBM7riDCe7X_kFbLUKetuCOuQxpiUnbAK-w_S3m4v1R28BRW9uOd5zLz6HNs6_GyjsZ7LobtyrZ5CsTIkAQEssxH7LnNuD0DXhr0Logs5fG4JP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/n-_tgkLcVZ67x-k_612Zp2G_mSyaOieV4gcRaEEJPgUZtwgIIxLC2TxYO3PeF7JPej3k4j9gl5giGoZib0LSLqaEc43vzG2kGOg3GEp3cLzQO4HMsAKGPk66PAzK-hoWy7RywICPi4y11jlztHR1KAOxHKLAO81vlgzHDUrROzzAsWWx0clUk5K-2Yhcov4a?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uGzTU-Xg6g0nbC4ICdIMNRdyrGTt1HoSRXbg1eQVQUmD9EYTkIn0LS5kto-O3OHecpHhm_RAl6K0M8bcvXx6oGvd9kxk5AXbDXgwJE0awtBE9psryaOhvLUEgpG3zfgMtlKcYg4L59_e-O5RImEMfEMm3yJRHCq6srfM5g71ejclOVwmI-L0m1x663fAKXc8?purpose=fullsize)
+
+NASA’s post-Ingenuity concepts include:
+
+* Mars Science Helicopter (MSH)
+* Sample Recovery Helicopters
+* SkyFall concepts
+
+These future aircraft are expected to:
+
+* carry science payloads
+* fly farther
+* operate longer
+* survive more difficult terrain
+
+That immediately drives demand for:
+
+> much higher battery energy density.
+
+NASA explicitly mentions forecasting advances in:
+
+* batteries
+* power systems
+* avionics
+  for these aircraft. ([Wikipedia][2])
+
+---
+
+# 2. Ingenuity already hit energy limits
+
+The original Ingenuity used:
+
+* 6 Sony VTC4 lithium-ion cells
+* ~35–40 Wh total capacity
+* solar charging
+* heavy thermal heating loads ([Reddit][3])
+
+Its battery system was excellent for a tech demo…
+…but future science helicopters will likely need:
+
+* more flight time
+* more payload
+* more onboard computing
+* better sensors
+* better autonomy
+
+All of that means:
+
+> bigger and/or better batteries.
+
+---
+
+# Why Amprius-like batteries are relevant
+
+## The single biggest constraint is mass
+
+On Mars:
+
+* air density is only ~1% of Earth’s
+* lift is extremely difficult
+
+That means battery mass is brutally important.
+
+Higher energy density batteries directly enable:
+
+\text{Higher energy density} \Rightarrow \text{longer range + larger payloads}
+
+This is why silicon-anode batteries are interesting.
+
+---
+
+# Could NASA already be evaluating silicon-anode batteries?
+
+Almost certainly at least at the research level.
+
+NASA and aerospace contractors routinely evaluate:
+
+* silicon-anode chemistries
+* solid-state batteries
+* lithium-sulfur
+* ultra-high-energy lithium-ion
+* radiation-tolerant energy systems
+
+for:
+
+* aircraft
+* lunar systems
+* Mars systems
+* EVA suits
+* satellites
+
+Even if Amprius specifically is not publicly named.
+
+---
+
+# But Mars is harder than drones on Earth
+
+The challenge is not just flight endurance.
+
+The battery must survive:
+
+| Requirement                | Difficulty |
+| -------------------------- | ---------- |
+| Deep cold                  | Extreme    |
+| Radiation                  | Extreme    |
+| Vacuum cruise to Mars      | Severe     |
+| Multi-year degradation     | Severe     |
+| Launch vibration           | Severe     |
+| Autonomous fault tolerance | Severe     |
+
+This is where space qualification becomes enormously expensive and slow.
+
+A battery that works great in:
+
+* military drones
+* HALE UAVs
+* aviation
+
+may still fail space qualification.
+
+---
+
+# One very important clue:
+
+NASA keeps emphasizing “bigger batteries”
+
+Recent NASA/JPL testing discussed:
+
+* increasing lift by ~30%
+* carrying heavier instruments
+* enabling larger batteries ([Space][1])
+
+That is a strong signal that:
+
+> energy storage is now one of the primary bottlenecks.
+
+---
+
+# Another interesting comparison: Dragonfly
+
+Dragonfly — NASA’s future Titan rotorcraft — avoids battery limitations differently:
+
+* it uses a nuclear MMRTG power source instead of relying only on solar batteries. ([Wikipedia][4])
+
+That tells you NASA recognizes:
+
+> planetary flight missions are fundamentally power-constrained.
+
+---
+
+# My engineering assessment
+
+For a hypothetical:
+
+* “Ingenuity 2”
+* “Mars Science Helicopter”
+* 2030s Mars drone fleet
+
+…the most likely battery direction is probably:
+
+1. Advanced lithium-ion
+2. Silicon-anode enhanced lithium
+3. Possibly semi-solid or solid-state systems later
+
+Amprius-type technology fits the *performance direction* NASA clearly wants:
+
+* maximum Wh/kg
+* lightweight aviation
+* high discharge capability
+
+But NASA would still require:
+
+* years of radiation testing
+* thermal cycling validation
+* deep-space qualification
+  before flying it to Mars.
+
+[1]: https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video?utm_source=chatgpt.com "Watch NASA's new Mars helicopter rotor break the speed of sound (video)"
+[2]: https://en.wikipedia.org/wiki/Ingenuity_%28helicopter%29?utm_source=chatgpt.com "Ingenuity (helicopter)"
+[3]: https://www.reddit.com/r/18650masterrace/comments/mpvsbd/fun_fact_the_mars_helicopter_ingenuity_is_powered/?utm_source=chatgpt.com "The Mars Helicopter Ingenuity is powered by six 18650 cells"
+[4]: https://en.wikipedia.org/wiki/Dragonfly_%28Titan_space_probe%29?utm_source=chatgpt.com "Dragonfly (Titan space probe)"
