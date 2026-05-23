@@ -402,3 +402,8 @@ Still, if NASA builds a larger successor to Ingenuity in the 2030s:
 [2]: https://amprius.com/industries/unmanned-aviation/ "Unmanned Aviation"
 [3]: https://amprius.com/ "Amprius Technologies: Home"
 [4]: https://verticalmag.com/features/explaining-amprius-extreme-fast-charge-battery-technology "Explaining Amprius' extreme fast charge battery technology"
+
+---
+
+### Future (quick Youtube vid)
+- https://youtu.be/TYasUWRkv4E
