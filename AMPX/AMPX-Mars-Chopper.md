@@ -1,6 +1,8 @@
 # Ingenuity Mars Helicopter
 - https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/
 
+![Image](https://images.openai.com/static-rsc-4/qZ-KKpNeja_qYtZb9j89OsWxnLF3SOJUyvwZjzVpNHHI3Mf5BbBZWndGC9sbC94qC6iwplKWAxX9oqVMhdvvfSRP6wh6Cj-yzlG_U2PsdWGbTZaBEq8lv_HJdL7qyJyJgK7TGMf2AIeX_7eLLeQKnKwBnXhnn0fR323Gpe5gUb1EJTaT3w0fWURX-Hq7v6F5?purpose=fullsize)
+
 ![Image](https://images.openai.com/static-rsc-4/6XMgdKIY82p8GwBGBWo5qLWnIe5yYpnHm5jX6Q5eHjoapn0ku1wUXMtndGOTherFWP_2vt1C1r5JkVTsenDojmoYR1tqw-bZYnEYifOfnDjzzk8zF0xkpjZ3nlvcq5kTSA8PztM6WsgY4EHVqEcyZzPAqu0Wsmq_gR5TxDc_MOEWi1OvJJBoSi8eirosTd-f?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/7WinQZqpcp1AhtSQO1uY5hu1XW4dhKEJTtSh_A7_BN6wkxh3heG7K28S1aiw2yC5GABkEqDaeP1u-wklpDDBe5-izVFSwSUr2uWcOhXytujoG67mPTNXf9d44dl4K628YAhMzWeNK4XzYTCaptxwri0O56ZGHMosnye58HWwZ-ZRY2stMZam0LnetDuMMHAp?purpose=fullsize)
@@ -96,8 +98,6 @@ So most of Ingenuity’s stored energy was actually used for:
 ![Image](https://images.openai.com/static-rsc-4/iuRKEN4YW5C2s45D_kgEFnDAuJ7jsfWTjCAJgqJV1WMNJxOoE0SFRXaNstV0oILvm3ChuW3PEn5MLFVjuM6TpKkU_aVEZ63ENaALbGNj1i_HD1mZVbzidURey5Ma423qxnEQlUnAqODf6_b16wfogsLHNo5-WduESeVtX3UpuoNN9p8WUVGzUO0KRmrwuWrX?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/z_IIzRLaaQ_6c8SdsX75oe-cbacLf0AyUGoRUgBDLLfXHDhj5KBhsqDRewuFz0CfSZzrSCbLIpgj3SZoYkYEvGZjQM8Jvw4O1Gqtdnsdaxi8WN7rY0YLmUSDJz0RJ-wGn9nhIUrJrKLWa-gqOK1hRQ75EUMEuLsWcL0GIO1OM1wJHG-yrg5xg9p7rjiSfUnH?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/qZ-KKpNeja_qYtZb9j89OsWxnLF3SOJUyvwZjzVpNHHI3Mf5BbBZWndGC9sbC94qC6iwplKWAxX9oqVMhdvvfSRP6wh6Cj-yzlG_U2PsdWGbTZaBEq8lv_HJdL7qyJyJgK7TGMf2AIeX_7eLLeQKnKwBnXhnn0fR323Gpe5gUb1EJTaT3w0fWURX-Hq7v6F5?purpose=fullsize)
 
 The helicopter had:
 
