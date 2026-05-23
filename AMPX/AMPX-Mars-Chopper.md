@@ -611,14 +611,11 @@ Amprius-type technology fits the *performance direction* NASA clearly wants:
 * lightweight aviation
 * high discharge capability
 
-But NASA would still require:
 
-* years of radiation testing
-* thermal cycling validation
-* deep-space qualification
-  before flying it to Mars.
+[1]: https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video "Watch NASA's new Mars helicopter rotor break the speed of sound (video)"
 
-[1]: https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video?utm_source=chatgpt.com "Watch NASA's new Mars helicopter rotor break the speed of sound (video)"
-[2]: https://en.wikipedia.org/wiki/Ingenuity_%28helicopter%29?utm_source=chatgpt.com "Ingenuity (helicopter)"
-[3]: https://www.reddit.com/r/18650masterrace/comments/mpvsbd/fun_fact_the_mars_helicopter_ingenuity_is_powered/?utm_source=chatgpt.com "The Mars Helicopter Ingenuity is powered by six 18650 cells"
-[4]: https://en.wikipedia.org/wiki/Dragonfly_%28Titan_space_probe%29?utm_source=chatgpt.com "Dragonfly (Titan space probe)"
+[2]: https://en.wikipedia.org/wiki/Ingenuity_%28helicopter%29 "Ingenuity (helicopter)"
+
+[3]: https://www.reddit.com/r/18650masterrace/comments/mpvsbd/fun_fact_the_mars_helicopter_ingenuity_is_powered "The Mars Helicopter Ingenuity is powered by six 18650 cells"
+
+[4]: https://en.wikipedia.org/wiki/Dragonfly_%28Titan_space_probe%29 "Dragonfly (Titan space probe)"
