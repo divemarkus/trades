@@ -1,5 +1,7 @@
 The proposed Space Reactor-1 Freedom (SR-1 Freedom) is extremely interesting because it represents a major shift in how NASA thinks about powering deep-space missions.
 
+![Image](https://en.wikipedia.org/wiki/Space_Reactor%E2%80%911_Freedom#/media/File:SR-1_Freedom_key_systems_at_a_glance.png)
+
 The key idea is:
 
 > Instead of carrying a giant chemical rocket and burning fuel quickly, SR-1 uses a nuclear reactor to continuously generate electricity that powers electric thrusters for months. ([Wikipedia][1])
