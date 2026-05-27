@@ -1,6 +1,6 @@
 The proposed Space Reactor-1 Freedom (SR-1 Freedom) is extremely interesting because it represents a major shift in how NASA thinks about powering deep-space missions...
 
-![Image](https://en.wikipedia.org/wiki/Space_Reactor%E2%80%911_Freedom#/media/File:SR-1_Freedom_key_systems_at_a_glance.png?purpose=fullsize)
+<img width="3727" height="2091" alt="SR-1_Freedom_key_systems_at_a_glance" src="https://github.com/user-attachments/assets/1098c2f4-cd6c-460d-ba0b-77beae0e0ad1" />
 
 The key idea is:
 
