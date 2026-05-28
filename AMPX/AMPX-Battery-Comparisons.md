@@ -88,7 +88,7 @@ The biggest issue was:
 
 Mars nighttime temperatures can fall below:
 
--90^\circ C \text{ to } -130^\circ F
+−90∘C to −130∘F
 
 Much of Ingenuity’s battery energy was consumed by:
 
