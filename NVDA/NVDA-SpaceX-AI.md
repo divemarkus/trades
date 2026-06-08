@@ -1,4 +1,6 @@
-What you're seeing is the beginning of a much larger shift:
+# Global Technological Shift
+
+What we're seeing is the beginning of a much larger shift:
 
 **Telecom towers become AI compute nodes.**
 **SpaceX becomes a distributed AI utility.**
