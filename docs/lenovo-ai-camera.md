@@ -55,7 +55,7 @@ The referee camera is only one piece of a much larger Lenovo deployment:
 * AI-assisted offside analysis
 * 3D player avatars/digital twins
 * Massive real-time data processing
-* Team analytics through "Football AI Pro"
+* Team analytics through [Football AI Pro](https://inside.fifa.com/innovation/innovating-the-game/football-ai-pro)
 * Broadcast infrastructure and media delivery ([WIRED][3])
 
 ### Why it matters
