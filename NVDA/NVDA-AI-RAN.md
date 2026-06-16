@@ -386,6 +386,9 @@ The real innovation is the idea that every cellular network becomes a distribute
 
 If that vision succeeds, future operators will not merely sell connectivity—they will operate one of the largest edge AI infrastructures ever built. ([NVIDIA][1])
 
+<img width="1536" height="1024" alt="NVIDIA-AI-RAN-Ecosystem" src="https://github.com/user-attachments/assets/095299f0-3f29-4580-be84-6c18439dd57b" />
+
+
 [1]: https://www.nvidia.com/en-us/industries/telecommunications/ai-ran/ "AI-RAN Solutions for 5G & 6G Cellular Networks"
 [2]: https://developer.nvidia.com/industries/telecommunications/ai-aerial "NVIDIA Aerial"
 [3]: https://www.5gamericas.org/nvidia-and-nokia-to-pioneer-the-ai-platform-for-6g-powering-americas-return-to-telecommunications-leadership/ "NVIDIA and Nokia to pioneer the AI platform for 6G"
