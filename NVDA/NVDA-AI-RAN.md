@@ -1,5 +1,7 @@
 # NVIDIA Aerial AI-RAN: The Convergence of Telecommunications and Artificial Intelligence
 
+<img width="1536" height="1024" alt="NVIDIA-Aerial-AI-RAN-Ecosystem" src="https://github.com/user-attachments/assets/e82595c0-78b7-42d7-9348-815e995fc8db" />
+
 NVIDIA Aerial AI-RAN is one of the most ambitious infrastructure projects currently underway in telecommunications. It is not merely an upgrade to 5G infrastructure—it is an attempt to fundamentally change what a cellular network is and how it generates value.
 
 Historically, mobile networks were built for one purpose:
