@@ -115,13 +115,11 @@ Tomorrow:
 Millions of Users
 
       │
-
       ▼
 
 Stablecoins
 
       │
-
       ▼
 
 Treasuries
