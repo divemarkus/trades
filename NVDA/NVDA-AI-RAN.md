@@ -34,7 +34,7 @@ The same hardware simultaneously operates the cellular network and executes AI w
 
 # What Exactly Is NVIDIA Aerial?
 
-[NVIDIA Aerial Platform](https://developer.nvidia.com/industries/telecommunications/ai-aerial?utm_source=chatgpt.com)
+[NVIDIA Aerial Platform](https://developer.nvidia.com/industries/telecommunications/ai-aerial)
 
 NVIDIA Aerial is a collection of:
 
@@ -149,22 +149,22 @@ This is where operators hope to create entirely new revenue streams.
 
 The ecosystem has grown rapidly.
 
-The [AI-RAN Alliance](https://ai-ran.org/?utm_source=chatgpt.com) now exceeds 130 participating organizations. ([NVIDIA Investor Relations][6])
+The [AI-RAN Alliance](https://ai-ran.org) now exceeds 130 participating organizations. ([NVIDIA Investor Relations][6])
 
 Major participants include:
 
-* [NVIDIA](https://www.nvidia.com?utm_source=chatgpt.com)
-* [Nokia](https://www.nokia.com?utm_source=chatgpt.com)
-* [Ericsson](https://www.ericsson.com?utm_source=chatgpt.com)
-* [SoftBank](https://www.softbank.jp/en/?utm_source=chatgpt.com)
-* [T-Mobile US](https://www.t-mobile.com?utm_source=chatgpt.com)
-* [AT&T](https://www.att.com?utm_source=chatgpt.com)
-* [Verizon](https://www.verizon.com?utm_source=chatgpt.com)
-* [AMD](https://www.amd.com?utm_source=chatgpt.com)
-* [Amazon Web Services](https://aws.amazon.com?utm_source=chatgpt.com)
-* [Microsoft](https://www.microsoft.com?utm_source=chatgpt.com)
-* [Arm](https://www.arm.com?utm_source=chatgpt.com)
-* [Marvell Technology](https://www.marvell.com?utm_source=chatgpt.com)
+* [NVIDIA](https://www.nvidia.com)
+* [Nokia](https://www.nokia.com)
+* [Ericsson](https://www.ericsson.com)
+* [SoftBank](https://www.softbank.jp/en/)
+* [T-Mobile US](https://www.t-mobile.com)
+* [AT&T](https://www.att.com)
+* [Verizon](https://www.verizon.com)
+* [AMD](https://www.amd.com)
+* [Amazon Web Services](https://aws.amazon.com)
+* [Microsoft](https://www.microsoft.com)
+* [Arm](https://www.arm.com)
+* [Marvell Technology](https://www.marvell.com)
 
 This is notable because competitors are cooperating to build common AI-native network architectures. ([NVIDIA Investor Relations][6])
 
@@ -172,7 +172,7 @@ This is notable because competitors are cooperating to build common AI-native ne
 
 # Why Nokia Matters
 
-The strongest commercial validation so far is NVIDIA's partnership with [Nokia](https://www.nokia.com?utm_source=chatgpt.com).
+The strongest commercial validation so far is NVIDIA's partnership with [Nokia](https://www.nokia.com).
 
 Nokia has integrated AI-RAN into its anyRAN strategy and has announced trials and deployments with operators including:
 
