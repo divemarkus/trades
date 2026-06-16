@@ -32,22 +32,17 @@ Turkey             ████                                  620+
           ┌─────────────────┴─────────────────┐
           │                                   │
           ▼                                   ▼
-
     WESTERN HOLDERS                     EASTERN ACCUMULATORS
-
           │                                   │
-
     United States                       China
     Germany                             Russia
     Italy                               India
     France                              Turkey
     Switzerland                         Gulf States
-
           │                                   │
           └─────────────┬─────────────────────┘
                         │
                         ▼
-
                GLOBAL GOLD MARKET
 ```
 
@@ -292,12 +287,9 @@ while China is accumulating:
                     │
                     │
                     ▼
-
              GLOBAL LIQUIDITY
 
-
 ═══════════════════════════════════════
-
 
                       CHINA
 
@@ -308,7 +300,6 @@ while China is accumulating:
                     │
                     │
                     ▼
-
             REAL WORLD PRODUCTION
 ```
 
@@ -375,17 +366,13 @@ A realistic distribution of monetary power could look like:
       ┌────────────────────┼────────────────────┐
       │                    │                    │
       ▼                    ▼                    ▼
-
    GOLD                DOLLAR            STABLECOINS
 
  Sovereign            Global Trade      Digital Trade
  Insurance            Settlement        Settlement
-
       │                    │                    │
       ▼                    ▼                    ▼
-
  Central Banks      Treasury Market      Consumers
-
       │                    │                    │
       └────────────────────┬────────────────────┘
                            │
