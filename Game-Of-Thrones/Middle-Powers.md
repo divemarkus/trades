@@ -28,7 +28,7 @@ The hybrid strategy may prove to be the smartest.
 
 ## QRIS
 
-Indonesia developed QRIS.
+Indonesia developed [QRIS](https://en.wikipedia.org/wiki/QRIS).
 
 Most people think QRIS is simply a payment app.
 
@@ -120,7 +120,7 @@ India is building:
 
 ### UPI
 
-Unified Payments Interface
+[Unified Payments Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
 
 which has become one of the most successful payment systems in history.
 
@@ -254,7 +254,6 @@ Think of the future like this:
      ┌──────────────┬──────────────┐
      │              │              │
      ▼              ▼              ▼
-
    USA            CHINA         MIDDLE POWERS
 
  Stablecoins      Gold          Hybrid Systems
