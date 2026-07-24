@@ -1,4 +1,4 @@
-# Latest news
+# Dark Fiber
 
 > Latest news from NVIDIA - https://finance.yahoo.com/technology/articles/nvidia-acquiring-dark-fiber-across-041635928.html
 
