@@ -382,3 +382,4 @@ That's why many security professionals now prefer paying with **Apple Pay**, **G
 
 * [Types of Secure Payments Used Today](secure-payment.md)
 * [How to Setup Mobile Wallets](mobile-wallets.md)
+* [Overall Recommendations or Things to Follow](overall-recommendations.md)
