@@ -376,6 +376,9 @@ The payment industry has effectively adopted a **Zero Trust** approach: merchant
 
 That's why many security professionals now prefer paying with **Apple Pay**, **Google Wallet**, or **Samsung Wallet** whenever a merchant supports them. They reduce the exposure of your actual payment credentials while adding hardware-backed security and biometric verification on top of the existing payment network protections.
 
+---
+
 # Topics covered here
-[Types of Secure Payments Used Today](secure-payment.md)
-[How to Setup Mobile Wallets](mobile-wallets.md)
+
+* [Types of Secure Payments Used Today](secure-payment.md)
+* [How to Setup Mobile Wallets](mobile-wallets.md)
