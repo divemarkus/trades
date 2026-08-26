@@ -450,7 +450,7 @@ Google's official June announcement is here: [Google Finance updates and Android
 
 I can also help you design a **complete Google Finance setup specifically around your holdings and trading workflow**, including the exact watchlists, portfolio groups, and AI prompts/tasks I would configure first.
 
-[1]: https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/?utm_source=chatgpt.com "Google Finance updates: New app, portfolios"
+[1]: https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/ "Google Finance updates: New app, portfolios"
 [2]: https://support.google.com/websearch/answer/16490185?hl=en&utm_source=chatgpt.com "Use AI-powered Google Finance in Search - Google Search Help"
-[3]: https://blog.google/products-and-platforms/products/search/google-finance-ai/?utm_source=chatgpt.com "Google Finance testing new AI features"
+[3]: https://blog.google/products-and-platforms/products/search/google-finance-ai/ "Google Finance testing new AI features"
 [4]: https://support.google.com/websearch/answer/16490185?hl=en-EN&utm_source=chatgpt.com "Try AI-powered Google Finance in Search - Google Search Help"
