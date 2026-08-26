@@ -287,28 +287,28 @@ Use Google Finance web for:
 ┌──────────────────────────────────────────────┐
 │              GOOGLE FINANCE                  │
 ├──────────────────────────────────────────────┤
-│ Portfolio                                   │
-│ ├── Allocation                              │
-│ ├── Concentration Risk                      │
-│ └── Performance Heatmap                     │
+│ Portfolio                                    │
+│ ├── Allocation                               │
+│ ├── Concentration Risk                       │
+│ └── Performance Heatmap                      │
 │                                              │
-│ Watchlists                                  │
-│ ├── Core Investments                        │
-│ ├── Semiconductor Cycle                     │
-│ ├── AI Infrastructure                       │
-│ ├── Battery / Energy                        │
-│ └── Crypto                                  │
+│ Watchlists                                   │
+│ ├── Core Investments                         │
+│ ├── Semiconductor Cycle                      │
+│ ├── AI Infrastructure                        │
+│ ├── Battery / Energy                         │
+│ └── Crypto                                   │
 │                                              │
-│ AI Research                                 │
-│ ├── Company Analysis                        │
-│ ├── Earnings Analysis                       │
-│ ├── Competitive Analysis                    │
-│ └── Macro / Catalyst Research               │
+│ AI Research                                  │
+│ ├── Company Analysis                         │
+│ ├── Earnings Analysis                        │
+│ ├── Competitive Analysis                     │
+│ └── Macro / Catalyst Research                │ 
 │                                              │
-│ Scheduled Intelligence                      │
-│ ├── Pre-market Briefing                     │
-│ ├── Semiconductor News                      │
-│ └── Portfolio Risk                          │
+│ Scheduled Intelligence                       │
+│ ├── Pre-market Briefing                      │ 
+│ ├── Semiconductor News                       │
+│ └── Portfolio Risk                           │
 └──────────────────────────────────────────────┘
 ```
 
@@ -324,13 +324,8 @@ Quickly see:
 
 * NVDA
 * AMPX
-* MU
-* WDC
-* SNDK
 * BTC
 * SOL
-* XRP
-* VGT
 
 ### Key Moments
 
