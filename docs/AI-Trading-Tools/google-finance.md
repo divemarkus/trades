@@ -180,6 +180,7 @@ The web version now supports portfolios that can be created or populated through
 * CSV files
 * PDFs
 * Natural-language descriptions
+* Ask it to create portfolio based on your files to avoid manual entries
 
 It then provides analysis including:
 
