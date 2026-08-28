@@ -47,7 +47,18 @@ The negative: **the Senate is the bottleneck**. Reuters reported that the bill h
 
 For crypto investors, I view eventual market-structure legislation as **highly likely over the longer term**; the real uncertainty is **when**, and whether the current CLARITY Act survives largely intact.
 
-I can also monitor the CLARITY Act and alert you when there is a Senate vote, major amendment, or meaningful change in passage probability.
+# Monitoring
+
+> Monitor the CLARITY Act and alert me when there is a Senate vote, major amendment, or meaningful change in passage probability. 
+
+Done. I’ll monitor the **CLARITY Act daily** and alert you only if there is:
+
+* A **Senate procedural or final vote**
+* A **major amendment or substantive rewrite**
+* A **meaningful change in the probability of passage**
+
+Each alert will include a concise explanation of **what changed, why it matters, and the likely market/investment implications**.
+
 
 [1]: https://www.congress.gov/119/meeting/house/117802/documents/CRPT-119hrpt168-pt1.pdf?utm_source=chatgpt.com "AUTHENTICATED"
 [2]: https://www.theblock.co/news/regulation/2026-07-22-senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029-409442?utm_source=chatgpt.com "Senate releases latest version of Clarity Act including software developer protections and ethics provision with 'sunset' date in 2029 | The Block"
